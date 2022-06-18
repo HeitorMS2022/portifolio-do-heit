@@ -1,0 +1,15 @@
+body{
+    background-color: yellow;
+    color: cyan;
+    text-align: center;
+}
+#app{
+    background-color: cyan;
+    color: yellow;
+}
+.line{
+    width: 60px;
+    height: 6px;
+    background-color: black;
+    margin: 8px auto;
+}
